@@ -1,4 +1,4 @@
-local HorizonLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/babyfayy333/HorizonLibrary/main/Library.lua"))()
+local HorizonLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/6ayy/HorizonLibrary/main/Library.lua"))()
 local Window = HorizonLibrary:CreateWindow({
     Name = "Jailbreak Script",
     Version = "1.2"
